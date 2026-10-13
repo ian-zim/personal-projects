@@ -12,4 +12,4 @@ A p5.js animation that moves from Christmas Eve through Christmas morning, featu
 
 **Controls:** Click the canvas to enable browser audio. Press R to restart the animation.
 
-**Requirements:** Runs in p5.js (audio file is not included).
+**Requirements:** Runs in p5.js (audio file `hohoho.mp3` is not included).
