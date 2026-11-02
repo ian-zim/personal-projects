@@ -13,3 +13,13 @@ A p5.js animation that moves from Christmas Eve through Christmas morning, featu
 **Controls:** Click the canvas to enable browser audio (the audio file `hohoho.mp3` is not included). Press R to restart the animation.
 
 **Requirements:** Runs in p5.js.
+
+## Four Seasons Tree Animation
+
+A music-reactive p5.js animation of a Vermont-inspired maple tree progressing through the four seasons, paired with Vivaldi's *The Four Seasons*.
+
+**Concepts:** L-systems, procedural branching, seasonal state transitions, audio-reactive weather, and snow accumulation based on branch angle and thickness.
+
+**Project:** [Overview and report](four-seasons-tree/README.md)
+
+**Code:** [Open the original p5.js sketch](https://editor.p5js.org/Ian_Zimmerman/sketches/ZiT6xI-U_)
