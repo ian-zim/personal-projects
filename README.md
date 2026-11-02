@@ -20,12 +20,8 @@ A music-reactive p5.js animation of a Vermont-inspired maple tree progressing th
 
 **Concepts:** L-systems, procedural branching, seasonal state transitions, audio-reactive weather, and snow accumulation based on branch angle and thickness.
 
-**Project:** [Overview and report](four-seasons-tree/README.md)
-
 **Code:** [four-seasons-tree/sketch.js](four-seasons-tree/sketch.js)
 
 **Controls:** Click the canvas to start the animation and music (the audio file `four-seasons.mp3` is not included). Press R to restart the animation.
 
-**Requirements:** Runs in p5.js. Add `audio/four-seasons.mp3` or `four-seasons.mp3`; audio playback time controls the seasonal transitions.
-
-**Live sketch:** [Open the original p5.js sketch](https://editor.p5js.org/Ian_Zimmerman/sketches/ZiT6xI-U_)
+**Requirements:** Runs in p5.js.
